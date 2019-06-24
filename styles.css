@@ -1,0 +1,12 @@
+#app  div {
+	border: 1px solid #000;
+	height: 50px;
+	width: 150px;
+	margin-top: 50px;
+}
+
+spank {
+	border: 1px solid orange;
+
+	padding: 50px;
+}
