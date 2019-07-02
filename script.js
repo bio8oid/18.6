@@ -22,7 +22,7 @@ var Counter = React.createClass({
     render: function() {
         return React.createElement('div', {},
             React.createElement('button', {onClick: this.increment}, ' plus ' + this.state.counter),
-            React.createElement('button', {onClick: this.decrement}, ' minus ')
+            React.createElement('button', {onClick: this.decrement}, ' minus ' )
         );
     }
 });
